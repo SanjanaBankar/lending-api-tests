@@ -13,5 +13,7 @@ A mock lending API (FastAPI + SQLite) with an automated pytest suite.
 
 ## Run locally
 pip install -r requirements.txt
+
 uvicorn app:app --port 8000
+
 pytest -v
