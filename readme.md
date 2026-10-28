@@ -1,4 +1,5 @@
 # Lending API Test Framework
+![API Tests](https://github.com/SanjanaBankar/lending-api-tests/actions/workflows/tests.yml/badge.svg)
 
 A mock lending API (FastAPI + SQLite) with an automated pytest suite.
 
